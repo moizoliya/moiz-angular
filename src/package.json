@@ -1,0 +1,27 @@
+{
+  "name": "moiz-angular",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moizoliya/moiz-angular.git"
+  },
+  "author": {
+    "name": "Moiz Kantawala",
+    "email": "moizoliya@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moizoliya/moiz-angular.git/issues"
+  },
+  "module": "moiz-angular.js",
+  "typings": "moiz-angular.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "@angular/http": "^4.0.2",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
